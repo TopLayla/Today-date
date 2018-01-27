@@ -255,6 +255,7 @@ input{
 	background-color: #d72c2e;
 	margin-top: .2rem;
 	border-radius: .3rem .3rem 0 0;
+
 }
 .guanzhu2{
 	width: 3.61rem;
@@ -267,6 +268,8 @@ input{
 	width: .32rem;
 	height: .32rem;
 	margin-left: 1rem;
+	margin-top: .3rem;
+	margin-right: .1rem;
 /* 	display: inline-block;
 	vertical-align: center; */
 	/* text-align: center; */
